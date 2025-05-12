@@ -101,6 +101,17 @@ who turns caffeine into scalable APIs ☕⚡
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabyasachi987&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sabyasachi987&theme=tokyonight&margin-w=10" />
+</p>
+
+
+[![Sabyasachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sabyasachi987&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 ---
 
 ## ☕ Let's Connect & Create Chaos
