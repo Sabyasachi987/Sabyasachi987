@@ -94,7 +94,7 @@ who turns caffeine into scalable APIs ☕⚡
 
 ---
 
-## 📊 GitHub Stats (I'm Totally Cool, I Swear)
+## 📊 GitHub Stats (I can find missing commas, I Swear)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sabyasachi987&show_icons=true&theme=tokyonight&hide_title=true" height="180" />
@@ -108,5 +108,5 @@ who turns caffeine into scalable APIs ☕⚡
 > 🗨️ *“Will write APIs for caffeine.”*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmtjY2lua29pbnpwbG1hcW1pNDJuY3E4eTJ1dHA2ZG85ZG9wZzNxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </p>
